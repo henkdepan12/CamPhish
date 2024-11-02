@@ -167,7 +167,7 @@ fi
 fi
 }
 
-ngrok_server() {
+ngrok_server(1) {
 
 
 if [[ -e ngrok ]]; then
